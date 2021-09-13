@@ -94,7 +94,7 @@ body {
 .info-section  {	
 	width: 100%;
 	position: relative;
-	padding: 20px 60px;
+	padding: 0 3vw;
 	top:-60px;
 	height:200px;
 }
